@@ -1,0 +1,12 @@
+currency-conversion-service.zip
+currency-exchange-service.zip
+limits-service.zip
+netflix-eureka-naming-server.zip
+netflix-zuul-api-gateway-server.zip
+spring-cloud-config-server.zip
+./currency-conversion-service/target
+./currency-exchange-service/target
+./limits-service/target
+./netflix-eureka-naming-server/target
+./netflix-zuul-api-gateway-server/target
+./spring-cloud-config-server/target
